@@ -1,4 +1,4 @@
-__author__ = 'Pavan'
+__author__ = 'Pavan Prabhakar Bhat'
 
 """
 CSCI-603: Intro Lecture (week 1)
